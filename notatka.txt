@@ -1,0 +1,3 @@
+Na 3 pierwszych filmach widać, że program się kompiluje oraz po wybraniu odpowiednich opcji, kolejno generuje dane grafu do pliku tekstowego. 
+Natomiast wybierając opcje pomiar program korzysta z algorytmu Bellmana-Forda i wyniki zapisuje do pliku tekstowego. Posłużyły one do 
+wykonania sprawozdania. Na następnych dwóch filmach widać funkcje odpowiedzialną za wyświetlanie listy sąsiedztwa oraz macierz sąsiedztwa.
